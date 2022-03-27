@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mudassir957
 - 👀 I’m interested in computer development.
-- 🌱 I’m currently learning Java, Python, Information Secuity.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me instagram @mudassir.957
 
