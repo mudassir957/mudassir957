@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mudassir957
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning different tools to work within the domain of computer science.
-- 💞️ I’m looking to collaborate on.
+- 👀 I’m studying computer science.
+- 🧑‍💻 I’m currently working as a backend engineer.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me Gmail shahzadmudassir957@gmail.com
 
 <!---
